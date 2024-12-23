@@ -10,7 +10,7 @@
         {
             "name": "Achievers University, Owo",
             "state": "Ondo",
-            "city": "Owo",
+            "city": "Owoo",
             "abbreviation": "auo",
             "websitelink": "https://www.achievers.edu.ng/"
         },
